@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Barletta;Sebastian;;;
-FN: Sebastian Barletta
-ORG:Vitas Healthcare;
-TITLE:Manager, Financial Planning & Analysis
-EMAIL;type=INTERNET;type=WORK;type=pref:sebastian.barletta@vitas.com
-TEL;type=WORK;type=VOICE:+13056099390
-item1.ADR;type=WORK;type=pref:;;3046 Corporate Way, Miramar, FL
+N:Sanchez;Adriana;;;
+FN: Adriana Sanchez
+ORG: SHAN Miami;
+TITLE:Operations Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:adriana_sanchezq@yahoo.com
+TEL;type=WORK;type=VOICE:+13054573239
+item1.ADR;type=WORK;type=pref:;;1885 Purdy Ave., Miami Beach, FL 33139
 item1.X-ABADR:sg
-item2.URL;type=pref:vitas.com
+item2.URL;type=pref:shan.ca
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
